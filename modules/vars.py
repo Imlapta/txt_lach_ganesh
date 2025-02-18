@@ -1,7 +1,7 @@
 import os
 
-API_ID    = os.environ.get("API_ID", "29773843")
-API_HASH  = os.environ.get("API_HASH", "8b40e91c29a00fecb905d6eb6aee2b3b")
+API_ID    = os.environ.get("API_ID", "3737117")
+API_HASH  = os.environ.get("API_HASH", "f466ca6ff400954d192ce0992ddf8b5d")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
 WEBHOOK = True  # Don't change this
